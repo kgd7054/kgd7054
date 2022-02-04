@@ -5,6 +5,11 @@
 Hi there 👋  <br>
 I'm Studying Blockchain 🧑🏻‍💻
   </h3>
+
+<h4 align="center">
+ 📚 blog : https://velog.io/@kgd7054. <br>
+  ✉️ email : kgd7054@gmail.com
+ </h4>
   
 <div align="center">
   
